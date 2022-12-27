@@ -1,4 +1,4 @@
-' Created with Margrete v1.3.1.1-a6d003e
+' Created with Margrete v1.3.1.0-4235b2a
 @VER	4
 @TITLE	Death By Glamour
 @ARTIST	Toby Fox
@@ -7,7 +7,7 @@
 @LEVEL	12+
 @CONST	0.00000
 @SONGID	MGTd8c093f7215b4b129fa90983b4f5a984
-@BGM	Death by Glamour.wav
+@BGM	Death by Glamour.ogg
 @BGMOFS	0.00000
 @BGMPRV	90.68000	135.00000
 @JACKET	Death by Glamour.png
