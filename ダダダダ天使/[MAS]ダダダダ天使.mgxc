@@ -37,9 +37,9 @@ BPM	0	180.00000
 TIL	0	0	1.00000
 BEGIN	NOTES
 e	N	U	N	0	0	8	8	0	0
-e	N	U	N	0	8	8	8	0	0
-e	N	U	N	480	0	8	8	0	0
+.a	N	U	N	0	0	8	8	0	0
 e	N	U	N	480	8	8	8	0	0
+.a	N	U	N	480	8	8	8	0	0
 e	N	U	N	960	0	8	8	0	0
 e	N	U	N	1200	0	8	8	0	0
 e	N	U	N	960	8	8	8	0	0
