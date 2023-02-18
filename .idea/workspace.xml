@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b115e92-c16f-45b8-9b99-6c920187aeab" name="変更" comment="微修正" />
+    <list default="true" id="0b115e92-c16f-45b8-9b99-6c920187aeab" name="変更" comment="やさしいやつこれからつくります" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675435281488</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="やさしいやつこれからつくります">
+      <created>1676215451766</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1676215451766</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +167,7 @@
     <MESSAGE value="エンドマーク完成" />
     <MESSAGE value="mittpartやっとクリエイト" />
     <MESSAGE value="微修正" />
-    <option name="LAST_COMMIT_MESSAGE" value="微修正" />
+    <MESSAGE value="やさしいやつこれからつくります" />
+    <option name="LAST_COMMIT_MESSAGE" value="やさしいやつこれからつくります" />
   </component>
 </project>
