@@ -1,4 +1,4 @@
-' Created with Margrete v1.3.1.0-4235b2a
+' Created with Margrete v1.3.1.1-a6d003e
 @VER	4
 @TITLE	Luxinauz
 @ARTIST	R.Solidor feat.まれかみ れい
@@ -1750,7 +1750,7 @@
 #720>s64
 #46'0:a64UCN
 #45'1440:sC4
-#60>c94
+#60>c84
 #120>c64
 #480>s64
 #46'0:a64UCN
@@ -1867,7 +1867,6 @@
 #420>s04
 #450>c14
 #480>s04
-#960>s88
 #81'0:x0GU
 #81'0:a0GDCN
 #81'0:s0G
