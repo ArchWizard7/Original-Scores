@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78c7d890-dd8e-4161-8ecd-3c8c85e4a070" name="変更" comment="いろいろ修正" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2M6CtDPxvzLvxWqCqHrg0FVYL9T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kohei/Desktop/おもさゃぼこ/二郎系/UMIGURI/UMIGURI_v1.0.1/data/music/自作譜面&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="デフォルトタスク">
+      <changelist id="78c7d890-dd8e-4161-8ecd-3c8c85e4a070" name="変更" comment="" />
+      <created>1677078858079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677078858079</updated>
+    </task>
+    <task id="LOCAL-00001" summary="oggを追加">
+      <created>1677079291055</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677079291055</updated>
+    </task>
+    <task id="LOCAL-00002" summary="スライドが変なことになってたので修正しました">
+      <created>1677243135055</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677243135055</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ぽろり唄 完成">
+      <created>1678983786848</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678983786848</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ぽろり唄 完成">
+      <created>1678983813494</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678983813494</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ぽろり唄 レギュ違反修正">
+      <created>1678984628426</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678984628426</updated>
+    </task>
+    <task id="LOCAL-00006" summary="9876734123 追加">
+      <created>1679053300792</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679053300792</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Delete,idea directory">
+      <created>1679053457640</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679053457640</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ちょっと進んだ">
+      <created>1679137270341</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679137270341</updated>
+    </task>
+    <task id="LOCAL-00009" summary="9876734123 完成">
+      <created>1679415920250</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679415920250</updated>
+    </task>
+    <task id="LOCAL-00010" summary="いろいろ修正">
+      <created>1681555546593</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681555546593</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="oggを追加" />
+    <MESSAGE value="スライドが変なことになってたので修正しました" />
+    <MESSAGE value="ぽろり唄 完成" />
+    <MESSAGE value="ぽろり唄 レギュ違反修正" />
+    <MESSAGE value="9876734123 追加" />
+    <MESSAGE value="Delete,idea directory" />
+    <MESSAGE value="ちょっと進んだ" />
+    <MESSAGE value="9876734123 完成" />
+    <MESSAGE value="いろいろ修正" />
+    <option name="LAST_COMMIT_MESSAGE" value="いろいろ修正" />
+  </component>
+</project>
