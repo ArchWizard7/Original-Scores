@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78c7d890-dd8e-4161-8ecd-3c8c85e4a070" name="変更" comment="いろいろ修正" />
+    <list default="true" id="78c7d890-dd8e-4161-8ecd-3c8c85e4a070" name="変更" comment="ゴママヨ&#10;Like a　Daylily">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9876734123/[MAS]9876734123.mgxc" beforeDir="false" afterPath="$PROJECT_DIR$/9876734123/[MAS]9876734123.mgxc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9876734123/[MAS]9876734123.ugc" beforeDir="false" afterPath="$PROJECT_DIR$/9876734123/[MAS]9876734123.ugc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Like a Daylily/Like a Daylily.mgxc" beforeDir="false" afterPath="$PROJECT_DIR$/Like a Daylily/Like a Daylily.mgxc" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681555546593</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Like a Daylily">
+      <created>1683983034063</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1683983034063</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +143,7 @@
     <MESSAGE value="ちょっと進んだ" />
     <MESSAGE value="9876734123 完成" />
     <MESSAGE value="いろいろ修正" />
-    <option name="LAST_COMMIT_MESSAGE" value="いろいろ修正" />
+    <MESSAGE value="Like a Daylily" />
+    <option name="LAST_COMMIT_MESSAGE" value="Like a Daylily" />
   </component>
 </project>
