@@ -7,8 +7,8 @@
 @ARTIST	しぐれうい
 @DESIGN	かまあげメロン
 @DIFF	3
-@LEVEL	12+
-@CONST	12.70000
+@LEVEL	13
+@CONST	13.00000
 @SONGID	うい麦畑でつかまえて
 
 @BGM	うい麦畑でつかまえて.ogg
@@ -18,7 +18,7 @@
 @JACKET	うい麦畑でつかまえて.jpg
 @BGIMG	
 @BGMODE	PASSIVE	FALSE
-@FLDCOL	0
+@FLDCOL	FF8000
 @FLDIMG	
 
 @FLAG	DIFFTTL	FALSE
